@@ -1,0 +1,15 @@
+H:\ElevenFiftyProjects\DotNetProjects\24HourChallenge\SocialMedia.Models\bin\Debug\SocialMedia.Models.dll
+H:\ElevenFiftyProjects\DotNetProjects\24HourChallenge\SocialMedia.Models\bin\Debug\SocialMedia.Models.pdb
+H:\ElevenFiftyProjects\DotNetProjects\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.AssemblyReference.cache
+H:\ElevenFiftyProjects\DotNetProjects\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CoreCompileInputs.cache
+H:\ElevenFiftyProjects\DotNetProjects\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.dll
+H:\ElevenFiftyProjects\DotNetProjects\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.pdb
+H:\ElevenFiftyProjects\DotNetProjects\24HourChallenge\SocialMedia.Models\bin\Debug\SocialMedia.Models.dll.config
+H:\ElevenFiftyProjects\DotNetProjects\24HourChallenge\SocialMedia.Models\bin\Debug\EntityFramework.dll
+H:\ElevenFiftyProjects\DotNetProjects\24HourChallenge\SocialMedia.Models\bin\Debug\EntityFramework.SqlServer.dll
+H:\ElevenFiftyProjects\DotNetProjects\24HourChallenge\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+H:\ElevenFiftyProjects\DotNetProjects\24HourChallenge\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\ElevenFiftyProjects\DotNetProjects\24HourChallenge\SocialMedia.Models\bin\Debug\EntityFramework.xml
+H:\ElevenFiftyProjects\DotNetProjects\24HourChallenge\SocialMedia.Models\bin\Debug\EntityFramework.SqlServer.xml
+H:\ElevenFiftyProjects\DotNetProjects\24HourChallenge\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+H:\ElevenFiftyProjects\DotNetProjects\24HourChallenge\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
